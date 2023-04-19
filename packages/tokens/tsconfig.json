@@ -1,4 +1,4 @@
 {
-  "extends": "@ignite-ui/ts-config/base.json",
+  "extends": "@trevizera/ts-config/base.json",
   "include": ["src"]
 }
