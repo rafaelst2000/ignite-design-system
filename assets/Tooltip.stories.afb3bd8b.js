@@ -1,0 +1,2 @@
+import{e as r,a as e,B as i}from"./index.1844d8bf.js";import{j as t}from"./jsx-runtime.44052754.js";import"./index.d525bcba.js";import"./iframe.42d1f200.js";import"./index.9d001e10.js";const c={title:"Form/Tooltip",component:r,args:{children:t(e,{children:"Hover me!"}),content:"This is the tooltip!"},decorators:[o=>t(i,{css:{display:"flex",alignItems:"center",justifyContent:"center",padding:"$20"},children:o()})]},l={},d=["Primary"];export{l as Primary,d as __namedExportsOrder,c as default};
+//# sourceMappingURL=Tooltip.stories.afb3bd8b.js.map

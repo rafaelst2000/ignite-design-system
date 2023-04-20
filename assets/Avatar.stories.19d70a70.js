@@ -1,0 +1,2 @@
+import{A as t}from"./index.1844d8bf.js";import"./index.d525bcba.js";import"./iframe.42d1f200.js";import"./index.9d001e10.js";import"./jsx-runtime.44052754.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/rafaelst2000.png",alt:"Rafael Trevisan"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,c as WithFallback,l as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.19d70a70.js.map
