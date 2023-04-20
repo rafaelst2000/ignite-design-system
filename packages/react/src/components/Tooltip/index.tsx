@@ -15,7 +15,6 @@ export function Tooltip({ children, content, ...props }: TooltipProps) {
         <RadixTooltip.Portal>
           <TooltipContent>
             <TooltipArrow />
-
             <Text size={'sm'}>{content}</Text>
           </TooltipContent>
         </RadixTooltip.Portal>
