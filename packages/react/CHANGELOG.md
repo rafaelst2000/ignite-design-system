@@ -1,5 +1,11 @@
 # @trevizera/react
 
+## 2.0.2
+
+### Patch Changes
+
+- ef71286: Add Toast and Tooltip components
+
 ## 2.0.1
 
 ### Patch Changes
